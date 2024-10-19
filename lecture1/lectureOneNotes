@@ -1,0 +1,5 @@
+##Lecture 1: Algorithmic Thinking, Peak Finding
+
+19:36 
+If there is the condition of "greater than OR EQUAL TO", what's the point in having "if it exists"? It should always exist?
+It's to broaden the definition to apply even if certain conditions are changed.
